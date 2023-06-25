@@ -1,0 +1,4 @@
+admin 
+user : fourpal
+pass : lesehan123
+email : fourpalstore.official@gmail.com
